@@ -1,0 +1,6 @@
+[submodule "holepunch"]
+	path = holepunch
+	url = https://github.com/emmanouilmatsis/holepunch
+[submodule "PyPunchP2P"]
+	path = PyPunchP2P
+	url = https://github.com/laike9m/PyPunchP2P
